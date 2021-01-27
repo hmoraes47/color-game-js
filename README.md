@@ -1,4 +1,4 @@
-# Color-Game-JS
+# color-game-js
 
  It's a RGB-based color picker game made in JavaScript, HTML and CSS.
 
